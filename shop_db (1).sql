@@ -99,15 +99,23 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `name`, `price`, `image`, `product_detail`) VALUES
-('gAccA6GlWECGQy9Jq5mA', '       Fukamushi Sencha Tea', '200', 'L5VW20zFU9wvO2ysdqix.jpg', ''),
-('BLTtlhOgq1cuz7plh4Ia', 'Lemon Green Tea', '123', '8lXs7FvkBvchy7RijAzE.jpg', ''),
-('jo35YMmBWpvbCMB65UdA', 'Kabusecha Green Tea', '160', 'YsMZ5Bezou9eH1KhTZrZ.jpg', ''),
-('aSBHDzG26iXurm6cfoNv', 'Gyokuro Green Tea', '50', 'vKK7WLWKiqhMBVltCovA.jpg', ''),
-('g5DLcNHmtHvq3DtJYsCb', 'Sweet Lemon Iced Tea', '80', 'awmvYZRs2wNZh0yFjoSk.jpg', ''),
-('uOarNNg0n3KD9OvPtItP', 'Lemon Verbena Tea', '80', 'dkqSpkWuMj94JicCEqHs.jpg', ''),
-('26lPPTjXh9EkNc7WocS5', 'Longjing Tea', '70', 'EJsJ87nGcHHHod779fKs.jpg', ''),
-('kun96OpQed6Eww6M1URo', 'Gunpowder Tea', '120', 'rugjsb8GsvKGFGe4jJgH.jpg', ''),
-('wrJTrzoHsuEwr7hGi3R6', 'Minty Lemon Iced Tea', '95', 'OyP5om4L0iRn9ES2sTPz.jpg', '');
+('sweettomato', 'Sweet Tomato Seeds', '70', 'tomato.jpg', ''),
+('lettuce', 'Lettuce Seeds', '70', 'lettuce.jpg', ''),
+('carrot', 'Carrot Seeds', '70', 'carrot.jpg', ''),
+('spinach', 'Spinach Seeds', '70', 'spinach.jpg', ''),
+('sunflower', 'Sunflower Seeds', '70', 'sunflower.jpg', ''),
+('zinnia', 'Zinnia Seeds', '70', 'zinnia.jpg', ''),
+('marigold', 'Marigold Seeds', '70', 'marigold.jpg', ''),
+('cosmos', 'Cosmos Seeds', '70', 'cosmos.jpg', ''),
+('oak', 'Oak Tree Seeds', '70', 'oak.jpg', ''),
+('maple', 'Maple Tree Seeds', '70', 'maple.jpg', ''),
+('pine', 'Pine Tree Seeds', '70', 'pine.jpg', ''),
+('birch', 'Birch Tree Seeds', '70', 'birch.jpg', ''),
+('basil', 'Basil Seeds', '70', 'basil.jpg', ''),
+('rosemary', 'Rosemary Seeds', '70', 'rosemary.jpg', ''),
+('thyme', 'Thyme Seeds', '70', 'thyme.jpg', ''),
+('sage', 'Sage Seeds', '70', 'sage.jpg', '');
+
 
 -- --------------------------------------------------------
 
